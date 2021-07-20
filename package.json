@@ -25,7 +25,7 @@
         "eslint-plugin-promise": "^4.0.1",
         "eslint-plugin-standard": "^4.0.0",
         "ethers": "^5.0.31",
-        "hardhat": "^2.0.11",
+        "hardhat": "^2.4.3",
         "hardhat-deploy": "0.7.0-beta.47",
         "hardhat-gas-reporter": "^1.0.4",
         "solc": "^0.6.12",
